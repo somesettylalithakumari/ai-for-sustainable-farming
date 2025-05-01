@@ -3,3 +3,10 @@ pandas
 scikit-learn
 numpy
 plotly
+langchain
+langchain-groq
+python-dotenv
+streamlit-mic-recorder
+gtts
+speechrecognition
+pyaudio
