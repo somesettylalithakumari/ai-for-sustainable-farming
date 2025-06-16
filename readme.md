@@ -76,4 +76,81 @@ pip install -r requirements.txt
 streamlit run main.py
 
 
-🔧 Technical Architecture
+## 🔧 Technical Architecture
+ai-farming-support/
+├── main.py
+├── crop_recommendation.py
+├── fertilizer_recommendation.py
+├── yield_prediction.py
+├── agents/
+│   ├── farmer_advisor.py
+│   ├── market_researcher.py
+│   └── predict_yield.py
+├── dashboard/
+│   └── dashboard.py
+├── utils/
+│   ├── db_utils.py
+│   ├── model_utils.py
+│   └── recommendation.py
+├── data/
+│   └── dataset.csv
+├── requirements.txt
+├── README.md
+└── .env
+
+
+##🎥 Demo
+Watch our video demonstration: 👉 AI-Driven Farming Support Demo
+
+🤝 Contributing
+We welcome contributions!
+
+👉 Please see our Contributing Guidelines for details.
+
+Fork the repository
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a pull request
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##👥 Team
+Project Lead:Udayan Pandey
+
+ML Engineers: Lalitha,Nishanth Mandava
+
+##📞 Support
+For support, please:
+
+Open an issue
+
+Contact us at: support@aifarming.tech
+
+Join our Discord community
+
+## 🙏 Acknowledgments
+Agricultural Research Institute
+
+Open Source Community
+
+Farming Partners
+
+## 🔜 Roadmap
+ Mobile app development
+
+ Drone integration
+
+ Blockchain integration for supply chain
+
+ Advanced soil analysis
+
+ Integrate weather API for dynamic recommendations
+
+
+
