@@ -78,10 +78,12 @@ streamlit run main.py
 
 ---
 ```
-#### **Technical Architecture**
 
 
 
+#### TECHNICAL ARCHITECTURE
+
+```
 ai-farming-support/
 ├── main.py
 ├── crop_recommendation.py
@@ -102,6 +104,8 @@ ai-farming-support/
 ├── requirements.txt
 ├── README.md
 └── .env
+```
+
 
 
 ---
