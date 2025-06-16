@@ -75,9 +75,6 @@ streamlit run main.py
 
 ---
 ```
-
-
-
 #### TECHNICAL ARCHITECTURE
 
 ```
@@ -111,20 +108,13 @@ ai-farming-support/
 Watch our video demonstration: 👉 [AI-Driven Farming Support Demo](https://youtu.be/FhTiJ4SFV04)
 
 ---
-
 ## 🤝 Contributing
 We welcome contributions!
-
 Please see our Contributing Guidelines for details.
-
 Fork the repository
-
 Create your feature branch (git checkout -b feature/AmazingFeature)
-
 Commit your changes (git commit -m 'Add some AmazingFeature')
-
 Push to the branch (git push origin feature/AmazingFeature)
-
 Open a pull request
 
 ---
