@@ -106,7 +106,7 @@ ai-farming-support/
 
 ---
 
-##🎥 Demo
+## 🎥 Demo
 Watch our video demonstration: 👉 AI-Driven Farming Support Demo
 ---
 🤝 Contributing
@@ -123,8 +123,9 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a pull request
+
 ---
-##📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ---
 ## 👥 Team
