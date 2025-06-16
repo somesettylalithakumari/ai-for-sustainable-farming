@@ -1,5 +1,4 @@
 # AI-Driven Farming Support System 🌾  
-# Technical
 An innovative AI-powered solution addressing critical challenges in modern agriculture through intelligent automation and data-driven insights.  
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
