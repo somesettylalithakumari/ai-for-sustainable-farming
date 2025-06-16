@@ -108,12 +108,14 @@ ai-farming-support/
 ---
 
 ## 🎥 Demo
-Watch our video demonstration: 👉 AI-Driven Farming Support Demo
+Watch our video demonstration: 👉 [AI-Driven Farming Support Demo](https://youtu.be/FhTiJ4SFV04)
+
 ---
-🤝 Contributing
+
+## 🤝 Contributing
 We welcome contributions!
 
-👉 Please see our Contributing Guidelines for details.
+Please see our Contributing Guidelines for details.
 
 Fork the repository
 
