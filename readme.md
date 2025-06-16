@@ -97,11 +97,11 @@ ai-farming-support/
 ├── requirements.txt
 ├── README.md
 └── .env
-
+---
 
 ##🎥 Demo
 Watch our video demonstration: 👉 AI-Driven Farming Support Demo
-
+---
 🤝 Contributing
 We welcome contributions!
 
@@ -116,15 +116,15 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a pull request
-
-📄 License
+---
+##📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+---
 ##👥 Team
 Project Lead:Udayan Pandey
 
 ML Engineers: Lalitha,Nishanth Mandava
-
+---
 ##📞 Support
 For support, please:
 
@@ -133,14 +133,14 @@ Open an issue
 Contact us at: support@aifarming.tech
 
 Join our Discord community
-
+---
 ## 🙏 Acknowledgments
 Agricultural Research Institute
 
 Open Source Community
 
 Farming Partners
-
+---
 ## 🔜 Roadmap
  Mobile app development
 
