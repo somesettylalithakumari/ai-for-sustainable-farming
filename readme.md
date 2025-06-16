@@ -1,5 +1,5 @@
 # AI-Driven Farming Support System 🌾  
-
+# Technical
 An innovative AI-powered solution addressing critical challenges in modern agriculture through intelligent automation and data-driven insights.  
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
@@ -76,7 +76,11 @@ pip install -r requirements.txt
 streamlit run main.py
 
 
-## 🔧 Technical Architecture
+---
+
+#### **Technical Architecture**
+
+
 ai-farming-support/
 ├── main.py
 ├── crop_recommendation.py
