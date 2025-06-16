@@ -77,8 +77,9 @@ streamlit run main.py
 
 
 ---
-
+```
 #### **Technical Architecture**
+
 
 
 ai-farming-support/
@@ -101,6 +102,8 @@ ai-farming-support/
 ├── requirements.txt
 ├── README.md
 └── .env
+
+
 ---
 
 ##🎥 Demo
