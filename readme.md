@@ -127,12 +127,12 @@ Open a pull request
 ##📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ---
-##👥 Team
+## 👥 Team
 Project Lead:Udayan Pandey
 
 ML Engineers: Lalitha,Nishanth Mandava
 ---
-##📞 Support
+## 📞 Support
 For support, please:
 
 Open an issue
@@ -148,7 +148,7 @@ Open Source Community
 
 Farming Partners
 ---
-## 🔜 Roadmap
+#### 🔜 Roadmap
  Mobile app development
 
  Drone integration
