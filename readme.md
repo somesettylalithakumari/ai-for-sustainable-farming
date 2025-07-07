@@ -1,7 +1,7 @@
 # AI-Driven Farming Support System 🌾  
 An innovative AI-powered solution addressing critical challenges in modern agriculture through intelligent automation and data-driven insights.  
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Devfolio](https://img.shields.io/badge/Devfolio-Overview-blue)](https://devfolio.co/projects/agrismart-0794) [![Watch the Demo](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/4hXxXM-A4qw)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)[![Watch the Demo](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/4hXxXM-A4qw)
 
 ---
 
